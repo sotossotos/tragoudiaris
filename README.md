@@ -1,10 +1,8 @@
-# DisTube Example
+# DisTube Base example
 
-DisTube.js.org example music bot with command handler
+Example music bot with command handler
 
 **Dependencies maybe outdated. You should update them yourself!**
-
-Check out the [official guide](https://distube.js.org/guide) to get your music bot running from scratch.
 
 **Useful commands for CI/CD**
 
